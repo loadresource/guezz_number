@@ -1,6 +1,7 @@
 # guezz_number
 
 A small command-line number guessing game implemented in Python.
+[Project page on roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
 
 ## Quick overview
 
